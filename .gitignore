@@ -3,3 +3,4 @@
 *.exe
 *.tfstate
 *.tfstate.*jenkibuildscript
+*.pem
